@@ -1,0 +1,1 @@
+public enum UIType { MainMenu, Status, Inventory }

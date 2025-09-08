@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0990f9dfe4ca0ef4baef4220d1b1ffad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - itemToolTipPanel: {fileID: 4616119607873367008, guid: 1f417aa210c1fc246b763c41f47341b0, type: 3}
+  - OnPointerEnterEvent: {fileID: 11400000, guid: 840536b3e7e47ac47a1baab7cced831c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
