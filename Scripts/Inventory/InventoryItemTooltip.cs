@@ -4,8 +4,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-// 아이템 정보를 띄우는 툴팁
-// 마우스를 아이템이 있는 슬롯 위에 올려두면 나타나도록 설계
+// 아이템 정보를 띄우는 툴팁 
+// 마우스를 아이템이 있는 슬롯 위에 올려두면 나타나도록 설계 
 public class InventoryItemTooltip : MonoBehaviour
 {
     [SerializeField] private GameObject itemToolTipPanel;
